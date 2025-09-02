@@ -59,7 +59,6 @@ const metaData = {
   project: "https://github.com/imsyy/site-status",
 };
 </script>
-
 <style lang="scss" scoped>
 footer {
   display: flex;
