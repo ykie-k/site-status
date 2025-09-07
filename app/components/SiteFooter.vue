@@ -52,7 +52,7 @@ const { siteIcp, version } = configPublic;
 const linkData = {
   github: "https://github.com/ykie-k/site-status",
   home: "https://www.174982.xyz",
-  email: "yukejie@174982.xyz",
+  email: "ykj@174982.xyz",
 };
 const metaData = {
   author: "https://imsyy.top",
